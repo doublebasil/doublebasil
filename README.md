@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tomm02
-- 👀 I’m interested in Raspbery Pico, Arduino, C, C++ and Python
+- 👀 I’m interested in Raspberry Pico, Arduino, C, C++ and Python
 - 🌱 I’m currently learning to program Raspi Pico using C++
-- 💞️ I’m looking to collaborate on nothing, actually.
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on nothing, actually
 
 <!---
 tomm02/tomm02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
