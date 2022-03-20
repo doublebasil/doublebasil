@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomm02
+- 👋 Hi, I’m @jail4kale
 - 👀 I’m interested in Raspberry Pico, Arduino, C, C++ and Python
 - 🌱 I’m currently learning to program Raspi Pico using C++
 - 💞️ I’m looking to collaborate on nothing, actually
