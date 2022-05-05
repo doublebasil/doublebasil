@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jail4kale
-- 👀 I’m interested in Raspberry Pico, Arduino, C, C++ and Python
-- 🌱 I’m currently learning to program Raspi Pico using C++
-- 💞️ I’m looking to collaborate on nothing, actually
+Currently working on code that can losslessly compress a 128x128 image into an arduino header file, and can then decompress the image and display it on a 16 bit RGB oled display.
+
 
 <!---
 tomm02/tomm02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
